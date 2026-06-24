@@ -1,0 +1,16 @@
+{
+  "name": "VEYON — The Horizon of Learning",
+  "short_name": "VEYON",
+  "description": "Master Abacus and Vedic Mathematics — practice, games, and progress tracking.",
+  "start_url": "veyon.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0F1E",
+  "theme_color": "#0A0F1E",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
